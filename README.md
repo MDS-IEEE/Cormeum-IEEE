@@ -1,29 +1,10 @@
-# hackathon
+# Cormeum
+Mobile application, serving as a platform to connect the Cormeum Machine Learning model (which is in early stages of development) with patients/clients.
+## Features:
+— Real-time updating heart rate and blood pressure monitor
 
-## Project setup
-```
-npm install
-```
+— An ECG display and realistic cardiogram generatory
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+— Responsive design that adapts to any kind of device screen size
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Application is based on One-Page Architecture, and is written on front-end Javascript framework Vue.JS.
